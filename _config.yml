@@ -1,0 +1,28 @@
+name: JFVisuals
+favicon: null
+layout_spectrum: 0.8179868150036782
+typography_spectrum: 0.10650467919185758
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13975484017282724
+  lightness: 0.49854948418214917
+  saturation: 0.7718699416145682
+  rhythmicContrast: 0.4435801929794252
+purpose: []
