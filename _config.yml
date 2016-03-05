@@ -1,28 +1,40 @@
-name: JFVisuals
 favicon: null
-layout_spectrum: 0.8179868150036782
-typography_spectrum: 0.10650467919185758
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: JFVisuals
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.13975484017282724
-  lightness: 0.49854948418214917
-  saturation: 0.7718699416145682
-  rhythmicContrast: 0.4435801929794252
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.9103115
+  brandStrength: 1
+  lightness: 0.4985495
+  brandColors:
+    - '#020201'
+    - '#2F2820'
+    - '#6E665A'
+    - '#A39C90'
+    - '#FBFBFB'
+  rhythmicContrast: 0.6310419
+typography_spectrum: 0.3270676
+layout_spectrum: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
